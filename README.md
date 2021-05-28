@@ -12,6 +12,8 @@ Fares for Rural areas do not go past $500. April had the highest peak from Rural
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/82127584/120001390-5a405880-bf99-11eb-823a-9ba426eadebd.png)
 
 
+![Pybear_dataframe](https://user-images.githubusercontent.com/82127584/120001400-5ca2b280-bf99-11eb-8d50-40f216ce833f.PNG)
+
 ## Summary:
 Three business recommendation for addressing any disparities among the city types.
 1. PyBer can focus on increasing fares for Rural areas. 
