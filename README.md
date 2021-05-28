@@ -9,6 +9,7 @@ In April, Suburban areas drodped then instantly increased by the end of April.
 March had rapid increases and drops in fare prices in Urban cities. 
 Fares for Rural areas do not go past $500. April had the highest peak from Rural areas.
 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/82127584/120001390-5a405880-bf99-11eb-823a-9ba426eadebd.png)
 
 
 ## Summary:
